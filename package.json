@@ -83,5 +83,8 @@
     "@typescript-eslint/parser": "7.3.1"
   },
   "sideEffects": false,
-  "packageManager": "yarn@4.1.0"
+  "packageManager": "yarn@4.1.0",
+  "dependencies": {
+    "redux": "file:"
+  }
 }
